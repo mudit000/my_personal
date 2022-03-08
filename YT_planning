@@ -1,0 +1,43 @@
+----To Upload Sessions on YouTube for below ----------------
+
+Networking between two minikube clusters
+Openpolicy Agent on minikube
+Istio scenarios
+Isto troubleshooting,Chos(https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools/),KEDA
+Istio common commands
+Ambassador telepresense
+Multi-Tenancy Extension For Kubernetes https://github.com/loft-sh/kiosk
+Open telemetry and Jaeger
+Gardener K8s as a service
+the NSA-CISA and MITRE ATT&CK® framworks
+Azure policy as code https://medium.com/dev-genius/how-to-automate-cloud-governance-on-azure-f392bd971f2f
+skaffold
+Virtual Kubelet
+Argocd
+Tekton https://hashnode.com/post/tekton-ci-simplified-ckzleauyw0n6beks1diq6ejvv
+Multicluster Istio:
+https://piotrminkowski.com/2021/07/12/multicluster-traffic-mirroring-with-istio-and-kind/
+https://faun.pub/connecting-multiple-kubernetes-clusters-on-vsphere-with-istio-service-mesh-a017a0dd9b2e
+https://github.com/kwonghung-YIP/setup-istio-multi-primary-diff-network,https://medium.com/geekculture/building-a-multi-cluster-istio-mesh-in-a-old-pc-7d5e2a8ff622
+Open telemetry
+
+https://docs.cilium.io/en/stable/gettingstarted/hubble_cli/
+https://docs.cilium.io/en/stable/gettingstarted/istio/
+https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/
+
+Helm Hooks https://codefresh.io/category/helm-tutorial/
+
+Jenkins on Kubernetes: --> https://devopscube.com/jenkins-build-agents-kubernetes/
+
+network namespace
+
+
+North-South Traffic,
+NAT,PAT,TCPdump
+kubernetes headless service
+network policies
+K8s RBAC
+jq command
+
+https://www.triggermesh.com/open-source
+komodor
